@@ -28,23 +28,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,django,flask,react,html,css,javascript,mysql,git,github,vscode" />
 </p>
 
-
-### Frameworks & Libraries
-- Django
-- Flask
-- React
-- Bootstrap
-
-### Databases
-- MySQL
-- SQLite
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-
 ---
 
 ## 📚 Currently Learning

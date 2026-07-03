@@ -1,8 +1,8 @@
-## Hi there 👋
 
 
-<h1 align="center">Hi 👋, I'm Wycliffe</h1>
-<h3 align="center">Computer Science Student | Software Developer | Problem Solver</h3>
+
+<h1 align="center">Hey there!</h1>
+<h3 align="center">Computer Science Student | Music Enthusiast | Poetry gives wings </h3>
 
 <p align="center">
   Passionate about building software that solves real-world problems.<br>

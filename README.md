@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h1 align="center">Hi 👋, I'm Haveri</h1>
+<h1 align="center">Hi 👋, I'm Wycliffe</h1>
 <h3 align="center">Computer Science Student | Software Developer | Problem Solver</h3>
 
 <p align="center">
@@ -9,6 +9,9 @@
   Currently exploring Full-Stack Development, Machine Learning, and Data Structures & Algorithms.
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Wycliffe!;Computer+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things"/>
+</p>
 ---
 
 ## 👨‍💻 About Me
@@ -68,10 +71,15 @@
 
 ---
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wycliffe479&theme=tokyonight"/>
+
+
+
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/wycliffe479
-
+- Linkedin : https://www.linkedin.com/in/paul-wycliffe/
+- 
 ---
 
 ## 💭 Quote
@@ -79,3 +87,7 @@
 > "The expert in anything was once a beginner who refused to quit."
 
 ⭐ Thanks for visiting my profile! Happy Coding!
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+</p>

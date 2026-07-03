@@ -24,13 +24,10 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-- Python
-- Java
-- C
-- JavaScript
-- HTML5
-- CSS3
-- SQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,django,flask,react,html,css,javascript,mysql,git,github,vscode" />
+</p>
+
 
 ### Frameworks & Libraries
 - Django
